@@ -1,4 +1,4 @@
-from app.models import Entrada, Grupo_Entrada, TipoDeEntrada
+from models import Entrada, Grupo_Entrada, TipoDeEntrada
 
 def obtener_cantidad_entradas():
     try:
